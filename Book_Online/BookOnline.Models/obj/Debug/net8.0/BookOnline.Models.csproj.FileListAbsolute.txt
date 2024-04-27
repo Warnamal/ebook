@@ -1,0 +1,12 @@
+E:\Book_Online\BookOnline.Models\bin\Debug\net8.0\BookOnline.Models.deps.json
+E:\Book_Online\BookOnline.Models\bin\Debug\net8.0\BookOnline.Models.dll
+E:\Book_Online\BookOnline.Models\bin\Debug\net8.0\BookOnline.Models.pdb
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.csproj.AssemblyReference.cache
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.AssemblyInfoInputs.cache
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.AssemblyInfo.cs
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.csproj.CoreCompileInputs.cache
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.dll
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\refint\BookOnline.Models.dll
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\BookOnline.Models.pdb
+E:\Book_Online\BookOnline.Models\obj\Debug\net8.0\ref\BookOnline.Models.dll
